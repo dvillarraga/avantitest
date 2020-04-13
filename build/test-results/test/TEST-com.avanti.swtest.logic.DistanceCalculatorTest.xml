@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.avanti.swtest.logic.DistanceCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-12T23:33:40" hostname="yesid-spectre-x360-ubuntu" time="0.088">
+  <properties/>
+  <testcase name="distanceCalculationInKmsTest" classname="com.avanti.swtest.logic.DistanceCalculatorTest" time="0.088"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
